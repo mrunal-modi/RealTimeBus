@@ -44,3 +44,8 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
+/* .profile_pic  */
+.profile_pic img {
+  max-height: 300px;
+}
