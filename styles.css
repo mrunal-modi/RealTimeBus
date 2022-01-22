@@ -47,5 +47,5 @@ footer {
 
 /* .profile_pic  */
 .profile_pic img {
-  max-height: 200px;
+  max-width: 100%
 }
